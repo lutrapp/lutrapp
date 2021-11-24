@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luciane Trapp</h1>
 <h3 align="center">I'm curious and passionate developer from Brazil</h3>
 <h2 align="center">
-<a href="lutrapp.github.io">Some projects</a>
+<a href="https://lutrapp.github.io/">Some projects</a>
 </h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lutrapp&label=Profile%20views&color=0e75b6&style=flat" alt="lutrapp" /> </p>
