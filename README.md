@@ -1,14 +1,10 @@
 <h1 align="center">Hi 👋, I'm Luciane Trapp</h1>
 <h3 align="center">I'm curious and passionate developer from Brazil</h3>
 <h2 align="center">
-<a href="https://lutrapp.github.io/">Some projects</a>
+<a href="https://lutrapp.github.io/">Some projects - old</a>
 </h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lutrapp&label=Profile%20views&color=0e75b6&style=flat" alt="lutrapp" /> </p>
-
-- 🌱 I’m currently learning **Javascript, Node**
-
-- 💬 Ask me about **Html, css**
 
 - 📫 How to reach me **lu.trapp@gmail.com**
 
